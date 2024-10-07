@@ -7,7 +7,7 @@ export default function AboutUs() {
             <Link to="/">Home</Link> <br />
             <Link to="/aboutus">About Us</Link> <br />
             <Link to="/contactus">Contact Us</Link> <br />
-            <hi>Home</hi>
+            <hi>About Us</hi>
         </div>
     )
 }
